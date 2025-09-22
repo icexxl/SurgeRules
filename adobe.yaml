@@ -2,3 +2,8 @@
   - DOMAIN-SUFFIX,adobestats.io,REJECT
   - DOMAIN-KEYWORD,sogou,REJECT
   - DOMAIN-KEYWORD,sginput,REJECT
+  - DOMAIN-SUFFIX,o298668.ingest.sentry.io,REJECT
+  - DOMAIN-SUFFIX,mobile.launchdarkly.com,REJECT
+  - DOMAIN-SUFFIX,clientstream.launchdarkly.com,REJECT
+  - DOMAIN-SUFFIX,update.googleapis.com,REJECT
+  - DOMAIN-SUFFIX,api.segment.io,reject
