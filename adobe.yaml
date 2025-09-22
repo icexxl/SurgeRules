@@ -2,8 +2,3 @@
   - DOMAIN-SUFFIX,adobestats.io,AdBlock
   - DOMAIN-KEYWORD,sogou,AdBlock
   - DOMAIN-KEYWORD,sginput,AdBlock
-  - DOMAIN-SUFFIX,o298668.ingest.sentry.io,AdBlock
-  - DOMAIN-SUFFIX,mobile.launchdarkly.com,AdBlock
-  - DOMAIN-SUFFIX,clientstream.launchdarkly.com,AdBlock
-  - DOMAIN-SUFFIX,update.googleapis.com,AdBlock
-  - DOMAIN-SUFFIX,api.segment.io,AdBlock
