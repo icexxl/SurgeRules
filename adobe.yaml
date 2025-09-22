@@ -6,4 +6,4 @@
   - DOMAIN-SUFFIX,mobile.launchdarkly.com,REJECT
   - DOMAIN-SUFFIX,clientstream.launchdarkly.com,REJECT
   - DOMAIN-SUFFIX,update.googleapis.com,REJECT
-  - DOMAIN-SUFFIX,api.segment.io,reject
+  - DOMAIN-SUFFIX,api.segment.io,REJECT
